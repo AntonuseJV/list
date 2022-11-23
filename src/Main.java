@@ -36,6 +36,7 @@ public class Main {
             }
 
             switch (item) {
+                
                 case 1:
                     System.out.println("Какую покупку хотите добавить?");
                     String inputProduct = scanner.nextLine();
